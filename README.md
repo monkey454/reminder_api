@@ -28,11 +28,11 @@ A secure, modular, and RESTful Flask API to manage personal reminders. Users can
 
 | Method | Endpoint                  | Description              |
 |--------|---------------------------|--------------------------|
-| GET    | `/api/reminders`          | Get all user reminders   |
-| POST   | `/api/reminders`          | Create a new reminder    |
-| GET    | `/api/reminders/<id>`     | Get specific reminder    |
-| PATCH  | `/api/reminders/<id>`     | Update specific reminder |
-| DELETE | `/api/reminders/<id>`     | Delete specific reminder |
+| GET    | `/reminders`          | Get all user reminders   |
+| POST   | `/reminders`          | Create a new reminder    |
+| GET    | `/reminders/<id>`     | Get specific reminder    |
+| PATCH  | `/reminders/<id>`     | Update specific reminder |
+| DELETE | `/reminders/<id>`     | Delete specific reminder |
 
 ---
 ## 📦 Requirements
