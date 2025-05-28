@@ -39,8 +39,8 @@ A secure, modular, and RESTful Flask API to manage personal reminders. Users can
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/flask-todo-app.git
-   cd flask-todo-app
+   git clone https://github.com/your-username/reminder_api.git
+   cd reminder_api
 2. **Install virtual environment**
    ```bash
    python -m venv venv
