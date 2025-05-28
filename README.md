@@ -20,8 +20,8 @@ A secure, modular, and RESTful Flask API to manage personal reminders. Users can
 
 | Method | Endpoint        | Description         |
 |--------|------------------|---------------------|
-| POST   | `/api/register` | Register new user   |
-| POST   | `/api/login`    | Login and get token |
+| POST   | `/auth/register` | Register new user   |
+| POST   | `/auth/login`    | Login and get token |
 
 ---
 ### ⏰ Reminder Routes *(Protected with JWT)*
